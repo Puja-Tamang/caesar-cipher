@@ -1,4 +1,4 @@
-# Caesar Cipher
+day 2 of building project # Caesar Cipher
 
 This is a simple Python program that encrypts and decrypts messages using the Caesar cipher technique.  
 It shifts letters by a specified number to encode or decode text.
